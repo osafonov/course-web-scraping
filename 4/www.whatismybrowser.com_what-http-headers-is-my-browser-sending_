@@ -1,0 +1,427 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+
+        
+
+            
+        
+    
+
+        <link rel="stylesheet preload prefetch" as="style" type="text/css" href="https://cdn.whatismybrowser.com/prod-website/static/main/css/site.min.css?time=1719926422" />
+
+        
+    
+
+
+        
+
+
+        <title>WhatIsMyBrowser.com</title>
+        <meta name="description" content="" />
+
+        <!-- Mobile meta tags -->
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+        <meta name="apple-mobile-web-app-capable" content="yes" />
+        <meta name="HandheldFriendly" content="true" />
+        <meta name="format-detection" content="telephone=no" />
+
+        <!-- Open Graph meta tags -->
+        <meta property="og:site_name" content="WhatIsMyBrowser.com" />
+        <meta property="og:type" content="Website" />
+        <meta property="og:title" content="" /> 
+        <meta property="og:image" content="https://cdn.whatismybrowser.com/prod-website/static/main/images/logo/open-graph-homepage.png" /> 
+        <meta property="og:description" content="" />
+        <meta property="og:url" content="https://www.whatismybrowser.com" />
+        <meta property="article:section" content="Technology" />
+        
+
+        <!-- Twitter -->
+        <meta name="twitter:card" content="summary">
+        <meta name="twitter:site" content="@whatismybrowser">
+        <meta name="twitter:creator" content="@whatismybrowser">
+        <meta name="twitter:title" content="">
+        <meta name="twitter:description" content="">
+        
+        
+
+        <!-- Favicon -->
+        <link rel="shortcut icon" href="https://cdn.whatismybrowser.com/prod-website/static/favicon.ico" type="image/x-icon" />
+        <link rel="apple-touch-icon" sizes="152x152" href="https://cdn.whatismybrowser.com/prod-website/static/main/images/logo/apple-touch-icon.png" />
+        <link rel="icon" sizes="192x192" href="https://cdn.whatismybrowser.com/prod-website/static/main/images/logo/wimb-192.png">
+
+        <!-- Misc -->
+        <meta name="msapplication-config" content="none"/>
+
+        
+        <meta name="theme-color" content="#428bae">
+
+        
+
+        
+        <!-- The only translation -->
+        <link rel="alternate" hreflang="en" href="https://www.whatismybrowser.com" />
+        <link rel="alternate" hreflang="x-default" href="https://www.whatismybrowser.com" />
+        
+
+        
+
+        
+        <!-- Preload javascript (it's added at the end of the page) -->
+        <link rel="preload prefetch" href="https://cdn.whatismybrowser.com/prod-website/static/main/js/site.min.js?cb=1689557877" as="script">
+        
+
+
+        
+
+    
+
+    
+
+
+
+        
+
+        
+
+        <!-- Structured Data - For the whole site: Organization and the Website itself -->
+        <script type="application/ld+json">
+            {
+                "@context": "https://schema.org",
+                "@type": "Organization",
+                "name": "WhatIsMyBrowser.com",
+                "url": "https://www.whatismybrowser.com",
+                "foundingDate": "2010-11-10",
+                "founder": {
+                    "@type": "Person",
+                    "name": "Brett Harris",
+                    "givenName": "Brett",
+                    "familyName": "Harris",
+                    "url": "https://www.whatismybrowser.com/about/team/brett-harris"
+                },
+                "logo": {
+                    "@type": "ImageObject",
+                    "url": "https://cdn.whatismybrowser.com/prod-website/static/main/images/logo/logo-words-blue-black-transparent.png",
+                    "width": 600,
+                    "height": 600
+                },
+                "sameAs": [
+                    "https://twitter.com/whatismybrowser",
+                    "https://github.com/whatismybrowser/"
+                ]
+            }
+        </script>
+        <script type="application/ld+json">
+            {
+                "@context": "https://schema.org",
+                "@type": "WebSite",
+                "name": "WhatIsMyBrowser.com",
+                "url": "https://www.whatismybrowser.com",
+                "image": {
+                    "@type": "ImageObject",
+                    "url": "https://cdn.whatismybrowser.com/prod-website/static/main/images/logo/open-graph-homepage.png",
+                    "width": 600,
+                    "height": 600
+                },
+                "potentialAction": {
+                    "@type": "SearchAction",
+                    "target": "https://www.whatismybrowser.com/search/?q={search_term}",
+                    "query-input": "required name=search_term"
+                },
+                "sameAs": [
+                    "https://twitter.com/whatismybrowser",
+                    "https://github.com/whatismybrowser/"
+                ]
+            }
+        </script>
+
+
+    </head>
+    <body class=" adsense_disabled   section_404 no_breadcrumbs page lang-en">
+
+        
+
+
+
+        <nav id="site" aria-label="Heading and navigation">
+
+            <div id="top-logo-and-name">
+                <a href="/" aria-label="My Browser">
+                    <div id="top-logo"></div>
+                </a>
+                <div id="top-name"><a href="/"><span id="top-name-site">WhatIsMyBrowser.com</span></a></div>
+            </div>
+
+            <ul id="main-nav">
+                
+                <li class="homepage"><a href="/">My browser</a></li>
+                
+                <li class="guides"><a href="/guides/">Guides</a></li>
+                
+                <li class="detect"><a href="/detect/">Detect my settings</a></li>
+                
+                <li class="developers-tools"><a href="/developers/tools/">Tools</a></li>
+                
+            </ul>
+
+            
+
+        </nav>
+
+
+
+        <div id="content-base">
+
+            
+
+
+
+            
+    
+
+
+            
+
+        
+
+            
+            
+
+        
+
+            <section class="section-block section-block-main-only">
+                <div class="corset">
+                    <div class="content-block-main">
+
+                        <h1>Page Not Found</h1>
+
+                        <p>The page you're looking for doesn't exist at this address!</p>
+
+                        <h2>What were you looking for?</h2>
+
+                        <p>There's lots on this site, maybe we can direct you to where you need to go.</p>
+
+                        <ul>
+                            <li>Find out <a href="/">what browser</a> you are using</li>
+                            <li>Read some helpful <a href="/guides/">web browser guides</a></li>
+                        </ul>
+
+                        <h2>Developers &amp; Sys-Admins, we have things for you too!</h2>
+
+                        <ul>
+                            <li><a href="/developers/tools/user-agent-parser/">Use our powerful parser on custom user agents</a></li>
+                            <li><a href="/developers/tools/send-to-tech-help/">See how easy it is for your users to email you their browser &amp; system info</a></li>
+                            <li><a href="/developers/tools/iframe/">Put the browser, JavaScript, Cookies, Flash and Java detection on your own site with an IFrame</a></li>
+                            <li><a href="https://developers.whatismybrowser.com/api/">Check out our API</a></li>
+                        </ul>
+
+                    </div>
+                </div>
+            </section>
+
+
+
+            
+
+            
+            <section class="section-block section-block-main-only">
+                <div class="corset">
+                    <div class="content-block-main">
+
+                        
+                    
+
+
+                        
+                            
+
+                    <aside id="feedback-form">
+
+                        
+
+                            
+                                
+                                <h1>Send us some feedback about this page...</h1>
+                            
+
+                            
+
+                                
+                                <p>The team at WhatIsMyBrowser.com is always working hard to improve the site and everything on it; we'd love to know what you think about this page!</p>
+
+                                <ul>
+                                    
+                                    <li>Was this page missing something? Was it clear? Could something be improved?</li>
+
+                                    <li>Was it helpful? Did it make your day easier? Did it answer your question?</li>
+                                </ul>
+
+                                <p>Let us know what you think - good, bad or indifferent.</p>
+
+                            
+
+                            <form method="POST" action="#feedback-form">
+                                
+                                <textarea name="feedback_message" cols="40" rows="10" placeholder="Type your feedback here." required id="id_feedback_message">
+</textarea>
+                                
+                                
+
+                                <div class="field_robotpreventer"><input type="checkbox" name="robotpreventer" id="id_robotpreventer"><label for="id_robotpreventer">If you can see this checkbox, please leave it unchecked (it prevents robots abusing the system)</label></div>
+
+                                
+
+                                    <p>We read every bit of feedback and will gladly take whatever you have to say onboard with us. Suggestions are always welcome. If you didn't like something; please tell us why; we want to keep getting better.</p>
+
+                                    <p>Thanks for taking the time to let the team behind WhatIsMyBrowser.com know your thoughts.</p>
+
+                                
+
+                                <p><b>This form is NOT for tech support; either for this website or for any other website.</b></p>
+
+                                <p>We will read your suggestions and feedback but can't reply to you here. If you need a reply, use our contact form.</p>
+
+                                <div class="feedback-submit-button"><input type="submit" name="feedback" value="Send feedback to WhatIsMyBrowser.com" class="button" /></div>
+                                <div class="feedback-terms-conditions"><a href="/about/legal/">Legal</a></div>
+
+                                <input type="hidden" name="csrfmiddlewaretoken" value="s3PlaE8dkCjrGBAQ12JXnNTqe6G4NhisceNSQc6Bga30AgtQmXOpATBA4WmhSYRv">
+                            </form>
+
+                        
+                    </aside>
+
+                        
+
+                    </div>
+                </div>
+            </section>
+            
+
+
+
+        </div><!-- end of #content-base -->
+
+        
+        <footer aria-label="Page footer, contains various helpful links.">
+            <div class="main-columns">
+                
+
+                <div class="col">
+                    <h2><a href="/guides/">Guides</a></h2>
+                        <ul>
+                            <li><a href="/guides/clear-cache-history-cookies/">Clear Cache, History and Cookies</a></li>
+                            <li><a href="/search/">Search whatismybrowser.com</a></li>
+                            
+                            <li><a href="/guides/">Guides about the Internet</a></li>
+                            <li><a href="/guides/how-to-update-your-browser/faq/why-should-i-update-my-web-browser">Why update my browser?</a></li>
+                        </ul>
+                </div>
+                <div class="col">
+                    <h2><a href="/developers/tools/">Tools</a></h2>
+                        <ul>
+                            <li><a href="/developers/tools/iframe/">Use our IFrame on your site</a></li>
+                            <li><a href="https://explore.whatismybrowser.com/useragents/parse/">User agent parser</a></li>
+                            <li><a href="/developers/tools/send-to-tech-help/">Send browser info via email</a></li>
+                            <li><a href="/minimum-system-requirements/">Minimum System Requirements</a></li>
+                        </ul>
+                </div>
+                <div class="col">
+                    <h2><a href="https://developers.whatismybrowser.com/">Developers</a></h2>
+                        <ul>
+                            <li><a href="/guides/the-latest-user-agent/">Latest user agents</a></li>
+                            <li><a href="https://developers.whatismybrowser.com/api/">User Agent Parsing API</a></li>
+                            <li><a href="https://explore.whatismybrowser.com/useragents/explore/">Explore User Agents</a></li>
+                            <li><a href="/faq/">Frequently Asked Questions</a></li>
+                        </ul>
+                </div>
+                <div class="col">
+                    <h2>Connect</h2>
+                        <ul>
+                            <li><a href="/about/">About Us</a></li>
+                            <li><a href="/about/contact/">Contact Us</a></li>
+                            
+                            <li><a href="https://status.whatismybrowser.com/">Status</a></li>
+                            <li><a href="/about/media/">Media Kit</a></li>
+                        </ul>
+                </div>
+            </div>
+
+            
+
+
+            <section class="section-block section-block-main-only section-choose-language">
+                <div class="corset">
+                    <div class="content-block-main">
+
+                    <h2>Other languages</h2>
+
+                    
+                    <ul id="translation-options">
+                        
+                        <li><a href="/">What is my browser?</a></li>
+                        
+                        <li><a href="/fr/">Quel est mon navigateur ?</a></li>
+                        
+                        <li><a href="/de/">Was ist mein Browser?</a></li>
+                        
+                        <li><a href="/es/">¿Cual es mi navegador?</a></li>
+                        
+                        <li><a href="/pt/">Qual é o meu navegador?</a></li>
+                        
+                        <li><a href="/sk/">Aký mám prehliadač?</a></li>
+                        
+                    </ul>
+
+                    
+
+                    </div>
+                </div>
+            </section>
+
+
+
+            <div class="info">
+                <a href="/about/accessibility/">Accessibility Statement</a>
+                <a href="/about/security/">Security Statement</a>
+            </div>
+
+            <div class="legal">
+                <a href="/">WhatIsMyBrowser.com</a> &copy; 2010 - 2024. <a href="/about/legal/">Legal</a><br />
+            </div>
+
+        </footer>
+
+
+        
+
+
+        
+
+
+        
+        
+                
+
+        <script>
+            var third_party_domain = "webbrowsertests.com"; // which server do third-party checks use?
+        </script>
+
+        
+
+        
+        <script defer src="https://cdn.whatismybrowser.com/prod-website/static/main/js/site.min.js?cb=1689557877"></script>
+        
+
+        
+
+
+        
+
+
+        
+        
+        
+
+    </body>
+</html>
