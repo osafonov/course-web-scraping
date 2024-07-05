@@ -41,8 +41,6 @@ def parse_html():
     blocks = [block.parent for block in blocks if block.get('class') is None]
 
 
-
-
     print(blocks)
 
 
@@ -68,5 +66,5 @@ def get_content(url):
 
 if __name__ == '__main__':
     # get_vacancies()
-    # parse_xml()
-    parse_html()
+    parse_xml()
+    # parse_html()
