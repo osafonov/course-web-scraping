@@ -34,7 +34,7 @@
 <link rel='stylesheet' id='jquery-ui-css' href='https://job.morion.ua/wp-content/themes/job_theme/css/A.jquery-ui.css,qver=4.8.2.pagespeed.cf.p9n0NJ5C0i.css' type='text/css' media='all'/>
 <style id='autocomplete-css' media='all'>.autocomplete-suggestions{text-align:left;cursor:default;border:1px solid #ccc;border-top:0;background:#fff;box-shadow:-1px 1px 3px rgba(0,0,0,.1);position:absolute;display:none;z-index:9999;max-height:254px;overflow:hidden;overflow-y:auto;box-sizing:border-box}.autocomplete-suggestion{position:relative;padding:0 .6em;line-height:23px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;font-size:1.02em;color:#333}.autocomplete-suggestion b{font-weight:normal;color:#1f8dd6}.autocomplete-suggestion.selected{background:#f0f0f0}form label.error,label.error{color:red!important}div.error{display:none}input{border:1px solid #000}input.checkbox{border:none}input.error{outline:0;-webkit-box-shadow:inset 0 1px 1px rgba(0,0,0,.075) , 0 0 8px rgba(255,0,0,.6);box-shadow:inset 0 1px 1px rgba(0,0,0,.075) , 0 0 8px rgba(255,0,0,.6)}form .gray *{color:gray}</style>
 <link rel='stylesheet' id='bootstrap-select-css' href='https://job.morion.ua/wp-content/themes/job_theme/css/A.bootstrap-select.min.css,qver=4.8.2.pagespeed.cf.8LwqhIoqIF.css' type='text/css' media='all'/>
-<link rel='stylesheet' id='main-css' href='https://job.morion.ua/wp-content/themes/job_theme/css/main.min.css?ver=1720108960' type='text/css' media='all'/>
+<link rel='stylesheet' id='main-css' href='https://job.morion.ua/wp-content/themes/job_theme/css/main.min.css?ver=1720374582' type='text/css' media='all'/>
 <script type='text/javascript' src='https://job.morion.ua/wp-includes/js/jquery/jquery.js,qver=1.12.4.pagespeed.jm.pPCPAKkkss.js'></script>
 <script type='text/javascript' src='https://job.morion.ua/wp-includes/js/jquery/jquery-migrate.min.js,qver=1.4.1.pagespeed.jm.C2obERNcWh.js'></script>
 <link rel='https://api.w.org/' href='https://job.morion.ua/wp-json/'/>
@@ -75,7 +75,7 @@
 <ul class="nav navbar-nav mobile-menu__list pull-right">
 <li class="mobile-menu__header">
 <div class="mobile-menu__header-left">
-<a class="navbar-brand" href="https://job.morion.ua/"><img src="https://job.morion.ua/wp-content/themes/job_theme/img/logo/xjob_morion_logo-sm.png.pagespeed.ic.b1207IMJh4.png" width="192" height="52" alt="Специализированный сайт поиска работы в медицине и фармации &#8212; job.morion.ua" title="Специализированный сайт поиска работы в медицине и фармации &#8212; job.morion.ua"></a>
+<a class="navbar-brand" href="https://job.morion.ua/"><img src="data:image/png;base64,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" width="192" height="52" alt="Специализированный сайт поиска работы в медицине и фармации &#8212; job.morion.ua" title="Специализированный сайт поиска работы в медицине и фармации &#8212; job.morion.ua"></a>
 </div>
 <div class="mobile-menu__headerright">
 <a class="top-menu__status" rel='m_PageScroll2id' href="https://job.morion.ua/employer/">Работодателю&nbsp;<span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span></a>
@@ -151,8 +151,6 @@
 <div id="collapseOne" class="  collapse in" aria-expanded="true">
 <input type="text" name="region" value="" data-name="region" class="form-control click-input" id="inputRegion" data-autosearch="true" placeholder="Город"/>
 <ul>
-<li><a class="reload-js li-submit" data-name="region" href="#" data-slug="krivoj-rog"><span class="glyphicon : glyphicon-plus" aria-hidden="true"></span>Кривой Рог </a>
-</li>
 <li><a class="reload-js li-submit" data-name="region" href="#" data-slug="kiev"><span class="glyphicon : glyphicon-plus" aria-hidden="true"></span>Киев </a>
 </li>
 <li><a class="reload-js li-submit" data-name="region" href="#" data-slug="zaporozhe"><span class="glyphicon : glyphicon-plus" aria-hidden="true"></span>Запорожье </a>
@@ -162,6 +160,8 @@
 <li><a class="reload-js li-submit" data-name="region" href="#" data-slug="poltava"><span class="glyphicon : glyphicon-plus" aria-hidden="true"></span>Полтава </a>
 </li>
 <li><a class="reload-js li-submit" data-name="region" href="#" data-slug="sumy"><span class="glyphicon : glyphicon-plus" aria-hidden="true"></span>Сумы </a>
+</li>
+<li><a class="reload-js li-submit" data-name="region" href="#" data-slug="pokrov"><span class="glyphicon : glyphicon-plus" aria-hidden="true"></span>Покров, Покровский район, Днепропетровская обл. </a>
 </li>
 </ul>
 </div>
@@ -1075,7 +1075,7 @@
 </ul>
 <a class="text-success seotext" href="#" data-toggle="collapse" data-target="#seotext"><span class="glyphicon glyphicon-eye-open"></span></a>
 </div>
-<h1 class=" pull-left  col-xs-12 col-sm-9 col-md-9 col-lg-9">Найдено 11 вакансий</h1>
+<h1 class=" pull-left  col-xs-12 col-sm-9 col-md-9 col-lg-9">Найдено 10 вакансий</h1>
 <div class="clearfix"></div>
 <h2>
 </h2>
@@ -1092,7 +1092,7 @@
 </div>
 <p class="main-text__vacancy">ТОВ «Ріхтер Гедеон Україна» запрошує Вас прийняти участь в конкурсі на заміщення вакантної посади: Фахівця медичного, терапевтични...</p>
 <p class="link-info__vacancy">
-<a href="https://job.morion.ua/vacancy/13894933643/" class="reload pull-right hint-link">3 дня назад</a>
+<a href="https://job.morion.ua/vacancy/13894933643/" class="reload pull-right hint-link">6 дней назад</a>
 </p>
 <div class="clearfix"></div>
 </div>
@@ -1108,7 +1108,7 @@
 </div>
 <p class="main-text__vacancy">«Народна аптека» та «Аптека інтернет-ц.» — аптеки, центром філософії яких є клієнт, його бажання, потреби та рівень задоволеності....</p>
 <p class="link-info__vacancy">
-<a href="https://job.morion.ua/vacancy/13894932892/" class="reload pull-right hint-link">3 дня назад</a>
+<a href="https://job.morion.ua/vacancy/13894932892/" class="reload pull-right hint-link">6 дней назад</a>
 </p>
 <div class="clearfix"></div>
 </div>
@@ -1124,7 +1124,7 @@
 </div>
 <p class="main-text__vacancy">«Народна аптека» та «Аптека інтернет-ц.» — аптеки, центром філософії яких є клієнт, його бажання, потреби та рівень задоволеності....</p>
 <p class="link-info__vacancy">
-<a href="https://job.morion.ua/vacancy/13894932893/" class="reload pull-right hint-link">3 дня назад</a>
+<a href="https://job.morion.ua/vacancy/13894932893/" class="reload pull-right hint-link">6 дней назад</a>
 </p>
 <div class="clearfix"></div>
 </div>
@@ -1140,7 +1140,7 @@
 </div>
 <p class="main-text__vacancy">Народна аптека» та «Аптека інтернет-це.» — лідер регіонального ринку з 20-ти річною історією успішної діяльності. Ми працюємо на т...</p>
 <p class="link-info__vacancy">
-<a href="https://job.morion.ua/vacancy/13894933646/" class="reload pull-right hint-link">3 дня назад</a>
+<a href="https://job.morion.ua/vacancy/13894933646/" class="reload pull-right hint-link">6 дней назад</a>
 </p>
 <div class="clearfix"></div>
 </div>
@@ -1157,7 +1157,7 @@
 </div>
 <p class="main-text__vacancy">Требования:Обязанности:Условия: Компанія «Шив-Медфарм» шукає в команду медичного представника. Ми працюємо у сфері аюрведичних пре...</p>
 <p class="link-info__vacancy">
-<a href="https://job.morion.ua/vacancy/13894933652/" class="reload pull-right hint-link">3 дня назад</a>
+<a href="https://job.morion.ua/vacancy/13894933652/" class="reload pull-right hint-link">6 дней назад</a>
 </p>
 <div class="clearfix"></div>
 </div>
@@ -1174,7 +1174,7 @@
 </div>
 <p class="main-text__vacancy">Требования:Обязанности:Условия: Компанія «Шив-Медфарм» шукає в команду медичного представника. Ми працюємо у сфері аюрведичних пре...</p>
 <p class="link-info__vacancy">
-<a href="https://job.morion.ua/vacancy/13894933651/" class="reload pull-right hint-link">3 дня назад</a>
+<a href="https://job.morion.ua/vacancy/13894933651/" class="reload pull-right hint-link">6 дней назад</a>
 </p>
 <div class="clearfix"></div>
 </div>
@@ -1191,7 +1191,7 @@
 </div>
 <p class="main-text__vacancy">Требования:Обязанности:Условия: Компанія «Шив-Медфарм» шукає в команду медичного представника. Ми працюємо у сфері аюрведичних пре...</p>
 <p class="link-info__vacancy">
-<a href="https://job.morion.ua/vacancy/13894933650/" class="reload pull-right hint-link">3 дня назад</a>
+<a href="https://job.morion.ua/vacancy/13894933650/" class="reload pull-right hint-link">6 дней назад</a>
 </p>
 <div class="clearfix"></div>
 </div>
@@ -1244,23 +1244,6 @@
 </p>
 <div class="clearfix"></div>
 </div>
-<div class="block-vacancy ">
-<div class="row">
-<div class="col-sm-12">
-<h3><a class="reload" href="https://job.morion.ua/vacancy/13894930546/">Ветеринарный врач</a>
-</h3>
-<p class="text-success"><a class="reload text-success" href="https://job.morion.ua/jobs/organization461/">Айболит, Ветеринарная клиника</a>
-</p>
-<p class="salary-city__vacancy">от 15 000&nbsp;грн до 20 000&nbsp;грн</p>
-<p class="label label-default">Кривой Рог</p><p></p>
-</div>
-</div>
-<p class="main-text__vacancy">Требования: наличие ветеринарного образования, Умение оказывать ветеринарную помощь, Обязанности: Честность и порядочность Желание...</p>
-<p class="link-info__vacancy">
-<a href="https://job.morion.ua/vacancy/13894930546/" class="reload pull-right hint-link">1 месяц назад</a>
-</p>
-<div class="clearfix"></div>
-</div>
 </div>
 </div>
 </div>
@@ -1293,12 +1276,12 @@
 <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3 footer-information__block">
 <p>Популярные города</p>
 <ul class="list-group">
-<li class="list-group-item"><a class="reload" href="https://job.morion.ua/jobs_krivoj-rog">Кривой Рог</a></li>
 <li class="list-group-item"><a class="reload" href="https://job.morion.ua/jobs_kiev">Киев</a></li>
 <li class="list-group-item"><a class="reload" href="https://job.morion.ua/jobs_zaporozhe">Запорожье</a></li>
 <li class="list-group-item"><a class="reload" href="https://job.morion.ua/jobs_verhnedneprovsk">Верхнеднепровск</a></li>
 <li class="list-group-item"><a class="reload" href="https://job.morion.ua/jobs_poltava">Полтава</a></li>
 <li class="list-group-item"><a class="reload" href="https://job.morion.ua/jobs_sumy">Сумы</a></li>
+<li class="list-group-item"><a class="reload" href="https://job.morion.ua/jobs_pokrov">Покров, Покровский район, Днепропетровская обл.</a></li>
 </ul>
 <div id="text-13" class="widget-container widget_text">	<div class="textwidget"></div>
 </div> </div>
@@ -1367,7 +1350,7 @@ RU <span class="glyphicon glyphicon-chevron-down"></span>
 <script src="https://job.morion.ua/wp-content/themes/job_theme/js/ru_RU.js,qver==1.50+bootstrap-select.min.js,qver==4.8.2+bootstrap.min.js,qver==4.8.2.pagespeed.jc.n51hsVATSh.js"></script><script>eval(mod_pagespeed_DVlYUSfNwm);</script>
 <script>eval(mod_pagespeed_1taBBwJr2$);</script>
 <script>eval(mod_pagespeed_7LYEDclTz5);</script>
-<script type='text/javascript'>var ajax_object={"ajaxurl":"http:\/\/job.morion.ua\/wp-admin\/admin-ajax.php","ajax_nonce":"90388a4df9","pagename":"","get_parameters":[]};</script>
+<script type='text/javascript'>var ajax_object={"ajaxurl":"http:\/\/job.morion.ua\/wp-admin\/admin-ajax.php","ajax_nonce":"526003ca96","pagename":"","get_parameters":[]};</script>
 <script type='text/javascript' src='https://job.morion.ua/wp-content/themes/job_theme/js/jscripts.js,qver=1.50.pagespeed.ce._6qYwZHTAi.js'></script>
 <script src="https://job.morion.ua/wp-content,_themes,_job_theme,_js,_click.js,qver==1.50+wp-includes,_js,_wp-embed.min.js,qver==4.8.2.pagespeed.jc.-HPHI4zciF.js"></script><script>eval(mod_pagespeed_HtVPkrXvFT);</script>
 <script>eval(mod_pagespeed_4XgoCne_h7);</script>
@@ -1399,7 +1382,7 @@ RU <span class="glyphicon glyphicon-chevron-down"></span>
 <form class="form-horizontal validate_form" id="loginform_modal" name="loginform" method="post" action="/wp-login.php">
 <fieldset>
 <div class="login-logo text-center">
-<img src="https://job.morion.ua/wp-content/themes/job_theme/img/logo/xjob_morion_logo-sm.png.pagespeed.ic.b1207IMJh4.png" alt="Логотип">
+<img src="data:image/png;base64,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" alt="Логотип">
 </div>
 <div class="form-group">
 <input type="email" class="form-control user_email" name="log" size="20" placeholder="E-mail" value="" required email>
@@ -1429,10 +1412,10 @@ RU <span class="glyphicon glyphicon-chevron-down"></span>
 <div class="wp-social-login-connect-with"></div>
 <div class="wp-social-login-provider-list">
 <a rel="nofollow" href="https://job.morion.ua/wp-login.php?action=wordpress_social_authenticate&#038;mode=login&#038;provider=Facebook&#038;redirect_to=https%3A%2F%2Fjob.morion.ua%2Fjobs%2F" title="Connect with Facebook" class="wp-social-login-provider wp-social-login-provider-facebook" data-provider="Facebook">
-<img alt="Facebook" title="Connect with Facebook" src="https://job.morion.ua/wp-content/plugins/wordpress-social-login/assets/img/32x32/wpzoom/facebook.png.pagespeed.ce.zHJ6TqXS7_.png" style="height: 33px"/>
+<img alt="Facebook" title="Connect with Facebook" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACEAAAAhCAIAAADYhlU4AAACXElEQVRIiWOwCJpqFTbPKmwuLZBN1DI9h1yGYWNHMO3tsAyeNjzsCKG1HTkMViHTSbXDyH+mjtc0bU8QsgydQ8AOexLtsAyda+g3M6pobeu0Q52zjgCRU+xCoCA17dD3m1Haufvq7Vf/YcA/c4VFCE6vkBxWhv4z48vWP3/1+T8SIGiHgWMeCXGu6T5lwdoLEKPPXX02c/mZyYtPOsctwhNW1pFLjVwKSEi7ai6TN++7BbGjqG2HhtsUDfcpFnjjHGiHsVsxYTtsIuYZ+M5QdZnMZ9C+ae9NiB0BmStkbPuAgngCCmzHElOPUsJliZ739Nr+fYdOP9x99N7LN18gdpy/9vzAyftHzz1yT1yMJ/laRywx9ywnbIe66+SF6y78xwa+fPvlnbIUT3ARa4ea6+TFGy5itePMpaeu8Xj9EbnEzKOMsB3mwbOBjo0pXuedsuzI2UcQ0xsm7Q/LW+2fsdw6HJ9eYJwTFR9ABIxY06BZ8vYTth24DbEjsWKDnvc0oPX4NQLtMAGmK+LrD2Aq2nHoDsSO1OpNxgEzCWqxjlwGyh80tQOUz53ySKhrybMDVCaSZMfOw3dJssM2ermuXTYJdqi7TVmz/dqbd1+BKLF8g0kgUXZo22WRYAcwmRoHzNL3nQFE+IsQ8u0gAw0jO3ToYgcp6YocO6KW69rTxw7r8Pm20Stto1eA0UoMtII4tNI2BgtyTNii71TEoGUZq22dpGWdqGUFRPEQpGkJRwlaVgnaVonaVklAZRCkY5MMQSCuVRJQAVClhkWcunmsBhxZxGlYAo1KVtJ1AwDIf1xZHEXMYwAAAABJRU5ErkJggg==" style="height: 33px"/>
 </a>
 <a rel="nofollow" href="https://job.morion.ua/wp-login.php?action=wordpress_social_authenticate&#038;mode=login&#038;provider=Google&#038;redirect_to=https%3A%2F%2Fjob.morion.ua%2Fjobs%2F" title="Connect with Google" class="wp-social-login-provider wp-social-login-provider-google" data-provider="Google">
-<img alt="Google" title="Connect with Google" src="https://job.morion.ua/wp-content/plugins/wordpress-social-login/assets/img/32x32/wpzoom/Nx33xgoogle.png.pagespeed.ic.nhzy2catfD.png" style="height: 33px"/>
+<img alt="Google" title="Connect with Google" src="data:image/png;base64,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" style="height: 33px"/>
 </a>
 </div>
 <div class="wp-social-login-widget-clearing"></div>
